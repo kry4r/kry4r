@@ -9,7 +9,7 @@
 
 - 📍  合肥（Hefei）.
 - 👨‍🎓  Hefei University of Technology.
-- 📧  [nidhog0w0@foxmail.com](mailto:nidhog0w0@foxmail.com).
+- 📧  [Nidhogxt@outlook.com](mailto:Nidhogxt@outlook.com).
   
 [![Bilibili Nidhog0v0](https://img.shields.io/badge/@Nidhog0v0-f25d8e?style=flat&logo=bilibili&logoColor=white&link=https://space.bilibili.com/60658794)](https://space.bilibili.com/60658794)
 [![GitHub Nidhog0v0](https://img.shields.io/github/followers/kry4r?label=followers&style=social)](https://github.com/kry4r)
