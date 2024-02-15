@@ -7,7 +7,8 @@
 ###  About me
 <br/>
 
-- 📍  合肥（Hefei）.
+- 📍  HangZhou（杭州）.
+- 🔭 I’m currently working on Raysengine
 - 👨‍🎓  Hefei University of Technology.
 - 📧  [Nidhogxt@outlook.com](mailto:Nidhogxt@outlook.com).
   
