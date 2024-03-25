@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋Hey, I'm Nid!👋
+  👋Hey, I'm Kabi!👋
 </h1>
 
 <img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
