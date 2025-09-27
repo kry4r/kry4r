@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-# You are my  ![Visitor Count](https://profile-counter.glitch.me/kry4r/count.svg) th visitor
+# You are my  ![kry4r](https://count.getloli.com/kry4r?theme=3d-num) th visitor
 
 
 # About My Github
