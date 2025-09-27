@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-# You are my  ![kry4r](https://count.getloli.com/kry4r?theme=3d-num) th visitor
+# You are my  ![Visitor Count](https://komarev.com/ghpvc/?username=kry4r&color=green&style=flat-square) th visitor
 
 
 # About My Github
