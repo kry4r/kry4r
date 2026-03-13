@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋Hey, I'm Kabi!👋
+  👋Hey, I'm Nid!👋
 </h1>
 
 ###  About me
