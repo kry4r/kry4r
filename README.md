@@ -5,11 +5,11 @@
 ###  About me
 <br/>
 
-- 📍  HangZhou（杭州）.
-- 🔭 I’m currently working on Raysengine
+- 📍  Hefei（合肥）.
+- 🔭  I’m currently working on IflyTek
 - 👨‍🎓  Hefei University of Technology.
 - 📧  [Nidhogxt@outlook.com](mailto:Nidhogxt@outlook.com).
-  
+- 😄  I previously worked at RaysEngine as a physics simulation engineer, and now I have transitioned to AI infrastructure
 [![Bilibili Nidhog0v0](https://img.shields.io/badge/@Nidhog0v0-f25d8e?style=flat&logo=bilibili&logoColor=white&link=https://space.bilibili.com/60658794)](https://space.bilibili.com/60658794)
 [![GitHub Nidhog0v0](https://img.shields.io/github/followers/kry4r?label=followers&style=social)](https://github.com/kry4r)
 [![GitHub Nidhog0v0](https://img.shields.io/github/stars/kry4r?style=social)](https://github.com/)
