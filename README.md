@@ -19,6 +19,8 @@
 <br/>
 <br/>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kry4r)](https://git.io/streak-stats)
+
 
 
 
