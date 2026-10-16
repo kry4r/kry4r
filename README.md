@@ -11,8 +11,7 @@
 ###  About me
 <br/>
 
-- 📍  Hefei（合肥）.
-- 🔭  I’m currently working on IflyTek
+- 📍  Hefei.
 - 👨‍🎓  Hefei University of Technology.
 - 📧  [Nidhogxt@outlook.com](mailto:Nidhogxt@outlook.com).
 - 😄  I previously worked at RaysEngine as a physics simulation engineer, and now I have transitioned to AI infrastructure
