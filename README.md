@@ -11,7 +11,8 @@
 ###  About me
 <br/>
 
-- 📍  Hefei.
+- 📍  HangZhou.
+- 💼  Physics Simulation Engine Engineer @[Motphys](https://www.motphys.com/en/).
 - 👨‍🎓  Hefei University of Technology.
 - 📧  [Nidhogxt@outlook.com](mailto:Nidhogxt@outlook.com).
 
